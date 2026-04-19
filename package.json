@@ -1,0 +1,24 @@
+{
+  "name": "invest-aitech-zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invest-AItech/invest-aitech-zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Invest-AItech/invest-aitech-zenn/issues"
+  },
+  "homepage": "https://github.com/Invest-AItech/invest-aitech-zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.4.7"
+  }
+}
