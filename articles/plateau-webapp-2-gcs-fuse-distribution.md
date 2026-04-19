@@ -392,3 +392,4 @@ Gen1 環境では `--add-volume ... type=cloud-storage` が無視されるので
 - [Configure Cloud Storage volume mounts for Cloud Run services](https://cloud.google.com/run/docs/configuring/services/cloud-storage-volume-mounts) — Google Cloud 公式ドキュメント
 - [【Python×PLATEAU】Google Colabで可視化してみた（前編）](https://qiita.com/invest-aitech/items/bc93f91d869a7e80e236)
 - [【Python×PLATEAU】Google Colabで可視化してみた（後編）](https://qiita.com/invest-aitech/items/6f45b9cf8375b8b8213a)
+

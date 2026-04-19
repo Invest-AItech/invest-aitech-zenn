@@ -517,3 +517,4 @@ GeoParquet という流行りの仕様には乗らない代わりに、**pyarrow
 - [Qiita: pyogrio で1000万レコードを10秒読込](https://qiita.com/nokonoko_1203/items/70080d539eae083e9ca7)
 - [Qiita: GeoParquet vs FlatGeobuf](https://qiita.com/nokonoko_1203/items/a01168096c2d4c2d6914)
 - [Zenn: Apache Parquet と Apache Arrow の比較](https://zenn.dev/t_nishimura/articles/604bf060f429ef)
+
