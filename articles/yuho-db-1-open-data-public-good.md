@@ -3,7 +3,7 @@ title: "EDINET 87 万件・10 年を 1 クエリで集める自前 DB"
 emoji: "📑"
 type: "tech"
 topics: ["edinet", "fastapi", "sqlite", "cloudrun", "opendata"]
-published: true
+published: false
 ---
 
 トヨタの過去 10 年分の有報を集めるのに、EDINET 公式 API では 2,500 営業日分のリクエストを順番に投げる必要があり、レート制限で詰まると 1 時間以上待つことになります。1 日 1 秒スリープで最短 42 分、長いときは遅いネットワーク越しに何度もリトライ。これを 1 SQL で答える自前 DB を作りました — 87 万件 × 10 年 × 月額ほぼ $0 で、毎晩 23:30 JST に自動更新です。
