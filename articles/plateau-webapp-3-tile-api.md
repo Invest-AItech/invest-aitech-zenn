@@ -1,5 +1,5 @@
 ---
-title: "【PLATEAU × FastAPI】170万棟の3DタイルをbboxでくりぬくAPI設計 — Pydantic型安全・3段階選別・lru_cache"
+title: "【PLATEAU】170万棟の3DタイルをbboxでくりぬくFastAPI設計"
 emoji: "🏙️"
 type: "tech"
 topics: ["python", "fastapi", "plateau", "pydantic", "cloudrun"]
